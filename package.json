@@ -1,0 +1,15 @@
+{
+  "name": "duckpower",
+  "version": "1.0.0",
+  "description": "The most needed calculation ever.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evan Meidell",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
